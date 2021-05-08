@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Shopping",
+    "\\Shopping\\Shopping.Client",
+    "\\Shopping\\Shopping.Client\\Models",
+    "\\Shopping\\Shopping.Client\\obj",
+    "\\Shopping\\Shopping.Client\\obj\\Release",
+    "\\Shopping\\Shopping.Client\\obj\\Release\\net5.0"
   ],
+  "SelectedNode": "\\Shopping\\Shopping.Client\\obj\\Release\\net5.0\\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
   "PreviewInSolutionExplorer": false
 }
