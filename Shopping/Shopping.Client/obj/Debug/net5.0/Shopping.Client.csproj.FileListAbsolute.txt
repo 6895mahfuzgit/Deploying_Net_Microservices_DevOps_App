@@ -9,7 +9,6 @@ C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_an
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\bin\Debug\net5.0\Shopping.Client.pdb
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\bin\Debug\net5.0\Shopping.Client.Views.dll
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\bin\Debug\net5.0\Shopping.Client.Views.pdb
-C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.csprojAssemblyReference.cache
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.AssemblyInfoInputs.cache
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Debug\net5.0\Shopping.Client.AssemblyInfo.cs
