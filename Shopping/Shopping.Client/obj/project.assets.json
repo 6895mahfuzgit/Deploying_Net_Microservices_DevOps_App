@@ -89,9 +89,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahfuz_Shazol\\source\\repos\\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
-      "projectName": "Shopping.Client",
-      "projectPath": "C:\\Users\\Mahfuz_Shazol\\source\\repos\\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Mahfuz_Shazol\\source\\repos\\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\\Shopping\\Shopping.Client\\ShoppingClient.csproj",
+      "projectName": "ShoppingClient",
+      "projectPath": "C:\\Users\\Mahfuz_Shazol\\source\\repos\\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\\Shopping\\Shopping.Client\\ShoppingClient.csproj",
       "packagesPath": "C:\\Users\\Mahfuz_Shazol\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mahfuz_Shazol\\source\\repos\\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\\Shopping\\Shopping.Client\\obj\\",
       "projectStyle": "PackageReference",

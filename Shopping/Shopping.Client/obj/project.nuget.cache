@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Ml7jlPBPjGRiWRbuhjzE5+QwXG8gUlSDWi1z5nuOGrOZYupw8/h8ghrrQsoniY+D/ypbuSNlfeYHN1uOj/rPg==",
+  "dgSpecHash": "lcfRQcR0G/5zDEXP498jcn1ZL/5Slc0ISyN76CN2/eKze9hwdsUdQCMnnV94opTFkXTgsQGaBCACOoRIWL7Vww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahfuz_Shazol\\source\\repos\\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "projectFilePath": "C:\\Users\\Mahfuz_Shazol\\source\\repos\\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\\Shopping\\Shopping.Client\\ShoppingClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahfuz_Shazol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],
