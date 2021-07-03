@@ -37,3 +37,4 @@ C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_an
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.pdb
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.genruntimeconfig.cache
 C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.csproj.CopyComplete
+C:\Users\Mahfuz_Shazol\source\repos\Deploying-_Net_Microservices_with_K8s_AKS_and_Azure_DevOps_App\Shopping\Shopping.Client\obj\Release\net5.0\Shopping.Client.csprojAssemblyReference.cache
